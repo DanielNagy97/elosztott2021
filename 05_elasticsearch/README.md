@@ -38,7 +38,7 @@ Válaszként egy ehhez hasonló JSON-nt kapunk:
 
 Maven build: `clean package`
 
-4. Futtassuk a 
+4. Futtassuk a projektünket
 
 `DemoApplicaton.java` -> Run as - Spring Boot App
 
